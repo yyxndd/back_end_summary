@@ -103,7 +103,7 @@
     + [Session](https://github.com/yyxndd/back_end_summary/blob/master/README.md#session)
     + [JWT](https://github.com/yyxndd/back_end_summary/blob/master/README.md#jwt)
     + [Token](https://github.com/yyxndd/back_end_summary/blob/master/README.md#token)
-* [OSI(open system interconnection model)开放系统交互模型](https://github.com/yyxndd/back_end_summary/blob/mas)ter/README.md#osiopen-system-interconnection-model开放系统交互模型)
+* [OSI(open system interconnection model)开放系统交互模型](https://github.com/yyxndd/back_end_summary/blob/master/README.md#osiopen-system-interconnection-model开放系统交互模型)
     + [应用层](https://github.com/yyxndd/back_end_summary/blob/master/README.md#应用层)
     + [表示层](https://github.com/yyxndd/back_end_summary/blob/master/README.md#表示层)
     + [会话层](https://github.com/yyxndd/back_end_summary/blob/master/README.md#会话层)
